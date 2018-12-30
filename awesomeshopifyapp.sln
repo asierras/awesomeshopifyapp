@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awesomeshopifyapp", "awesomeshopifyapp\awesomeshopifyapp.csproj", "{618FEC8E-27A6-4387-B1F3-87F94C15C667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awesomeshopifyapp.test", "..\awesomeshopifyapp.test\awesomeshopifyapp.test.csproj", "{F670CC9C-7316-4B5E-9728-C5412A8891BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awesomeshopifyapp.test", "awesomeshopifyapp.test\awesomeshopifyapp.test.csproj", "{F670CC9C-7316-4B5E-9728-C5412A8891BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
